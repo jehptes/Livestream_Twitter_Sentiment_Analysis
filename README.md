@@ -2,19 +2,20 @@
 
 This project was developed for Twitter livestream tweets collection , sentiment analysis and storage of collected data. 
 
+During Part 1 of this project in the file Livestream_Twitter_sentiment_analysis_Part_1.ipynb , the following were used; 
 
 
-Python packages/Libraries used ; 
+Python packages/Libraries; 
 * Tweepy
 * mysql.connector
 * TextBlob
 * re
 
-Database used ; 
+Database; 
 * MySQL database
 
 
-Reference 
+Tech Reference 
 1. Chulong Li
 
 
