@@ -1,4 +1,4 @@
-# jehptes-jehptes-Livestream_Twitter_Sentiment_Analysis
+# Livestream_Twitter_Sentiment_Analysis
 
 This project was developed for Twitter livestream tweets collection , sentiment analysis and storage of collected data. 
 
